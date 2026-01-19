@@ -22,7 +22,7 @@ This project focuses strongly on **clean UI, UX, responsiveness, and frontend be
 
 ## 🚀 Live Demo
 
-👉 **Live Website**: *(https://portfolio-zzb6.vercel.app/)*
+👉 **Live Website**: https://portfolio-weld-beta-u7uw35fy8u.vercel.app
 
 ---
 
