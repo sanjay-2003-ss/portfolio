@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website – Frontend Developer Showcase
+# 🌐 Personal Portfolio Website – Full Stack Developer Showcase
 
 This is my **personal portfolio website** built to professionally showcase my **skills, projects, and contact details** as a frontend / full-stack developer.
 
